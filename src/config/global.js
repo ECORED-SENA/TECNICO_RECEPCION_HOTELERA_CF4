@@ -1,0 +1,403 @@
+export const global = {
+  componenteFormativo: 'Procedimientos de reservas',
+  descripcionCurso:
+    '¡Bienvenido al componente formativo 4 Procedimientos de Reservas! Contiene una descripción detallada del procedimiento técnico para reservas hoteleras, donde le explica cómo puede solicitar la disponibilidad y registrar paso a paso la información requerida, indicando el orden para confirmación de la  reservación: estado, condiciones y políticas. Así mismo, estará en capacidad de generar  los reportes de reservas de manera correcta. ¡Nuevamente bienvenido al programa de formación Técnico en Servicio de Recepción Hotelera!em ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis vestibulum quam bibendum varius. Quisque pretium at nulla sit amet placerat. Vestibulum consequat suscipit accumsan. Proin pharetra congue enim et tempus. Sed sodales dui volutpat, placerat tellus accumsan, semper est. Phasellus nec lorem elementum, mattis quam eget, vestibulum nibh. Sed.',
+  imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+  fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
+}
+
+export const menuPrincipal = {
+  menu: [
+    {
+      nombreRuta: 'inicio',
+      icono: 'fas fa-home',
+      titulo: 'Volver al inicio',
+    },
+    {
+      nombreRuta: 'tema1',
+      icono: 'far fa-file-alt',
+      numero: '1',
+      titulo: 'Canales de reserva.',
+      desarrolloContenidos: true,
+      subMenu: [
+        {
+          icono: 'far fa-file-alt',
+          numero: '1.1',
+          titulo: 'Tipos',
+          hash: 't_1_1',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '1.2',
+          titulo: 'Ventajas y desventajas',
+          hash: 't_1_2',
+        },
+      ],
+    },
+    {
+      nombreRuta: 'tema2',
+      icono: 'far fa-file-alt',
+      numero: '2',
+      titulo: 'Convenciones para identificación de reservas',
+      desarrolloContenidos: true,
+      subMenu: [
+        {
+          icono: 'far fa-file-alt',
+          numero: '2.1',
+          titulo: 'Alfabeto aeronáutico',
+          hash: 't_2_1',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '2.2',
+          titulo: 'Códigos aeronáuticos',
+          hash: 't_2_2',
+        },
+      ],
+    },
+    {
+      nombreRuta: 'tema3',
+      icono: 'far fa-file-alt',
+      numero: '3',
+      titulo: 'Reportes',
+      desarrolloContenidos: true,
+      subMenu: [
+        {
+          icono: 'far fa-file-alt',
+          numero: '3.1',
+          titulo: 'Rooming lis',
+          hash: 't_3_1',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '3.2',
+          titulo: 'Waiting list, o lista de espera.',
+          hash: 't_3_2',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '3.3',
+          titulo: 'Forecast.',
+          hash: 't_3_3',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '3.4',
+          titulo: 'Overbooking.',
+          hash: 't_3_4',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '3.5',
+          titulo: 'No show.',
+          hash: 't_3_5',
+        },
+      ],
+    },
+    {
+      nombreRuta: 'tema4',
+      icono: 'far fa-file-alt',
+      numero: '4',
+      titulo: 'Procedimientos técnicos',
+      desarrolloContenidos: true,
+      subMenu: [
+        {
+          icono: 'far fa-file-alt',
+          numero: '4.1',
+          titulo: 'Confirmación',
+          hash: 't_4_1',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '4.2',
+          titulo: 'Modificación',
+          hash: 't_4_2',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '4.3',
+          titulo: 'Cancelación',
+          hash: 't_4_3',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '4.4',
+          titulo: 'Anulación',
+          hash: 't_4_4',
+        },
+      ],
+    },
+    {
+      nombreRuta: 'tema5',
+      icono: 'far fa-file-alt',
+      numero: '5',
+      titulo: 'Reservas',
+      desarrolloContenidos: true,
+      subMenu: [
+        {
+          icono: 'far fa-file-alt',
+          numero: '5.1',
+          titulo: 'Tratamiento de las reservas',
+          hash: 't_5_1',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '5.2',
+          titulo: 'Condiciones',
+          hash: 't_5_2',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '5.3',
+          titulo: 'Políticas',
+          hash: 't_5_3',
+        },
+        {
+          icono: 'far fa-file-alt',
+          numero: '5.4',
+          titulo: 'Garantía de reserva',
+          hash: 't_5_4',
+        },
+      ],
+    },
+  ],
+  subMenu: [
+    // {
+    //   nombreRuta: 'actividad',
+    //   icono: 'far fa-question-circle',
+    //   titulo: 'Actividad didáctica',
+    //   desarrolloContenidos: true,
+    // },
+    {
+      nombreRuta: 'glosario',
+      icono: 'fas fa-sort-alpha-down',
+      titulo: 'Glosario',
+    },
+    {
+      nombreRuta: 'complementario',
+      icono: 'far fa-folder-open',
+      titulo: 'Material complementario',
+    },
+    {
+      icono: 'fas fa-book',
+      titulo: 'Referencias bibliográficas',
+      nombreRuta: 'referencias',
+    },
+    {
+      icono: 'fas fa-download',
+      titulo: 'Descargar material',
+      download: 'downloads/material.zip',
+    },
+    {
+      icono: 'far fa-registered',
+      titulo: 'Créditos',
+      nombreRuta: 'creditos',
+    },
+  ],
+}
+
+export const creditos = {
+  liderEquipo: {
+    nombre: 'Maria Camila Garcia Santamaria',
+    cargo: 'Líder del equipo',
+  },
+  contenidoInstruccional: [
+    {
+      nombre: 'Rafael Neftalí Lizcano Reyes',
+      cargo: 'Responsable del equipo',
+      centro: 'Centro Industrial Del Diseño Y La Manufactura',
+      regional: 'Regional Santander',
+    },
+    {
+      nombre: 'Tania Yaneth Ramírez Benítez',
+      cargo: 'Soporte organizacional',
+      centro: 'CENTRO DE COMERCIO Y SERVICIOS',
+      regional: 'Regional Tolima',
+    },
+    {
+      nombre: '',
+      cargo: 'Experta temática',
+      centro: 'Centro Agropecuario de Buga',
+      regional: 'Regional valle',
+    },
+    {
+      nombre: '',
+      cargo: 'Experto temático',
+      centro: 'Centro de Gestión Industrial',
+      regional: 'Regional Distrito Capital',
+    },
+    {
+      nombre: '',
+      cargo: 'Experto temático',
+      centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
+    },
+    {
+      nombre: '',
+      cargo: 'Experto temático',
+      centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
+    },
+    {
+      nombre: '',
+      cargo: 'Experto temático',
+      centro: 'Deutsche Gesellschaft für',
+      regional: 'Internationale Zusammenarbeit (GIZ)',
+    },
+    {
+      nombre: '',
+      cargo: 'Diseñador instruccional',
+      centro: 'Centro para la Industria y la Comunicación Gráfica',
+      regional: 'Regional Distrito Capital',
+    },
+    {
+      nombre: '',
+      cargo: 'Evaluador instruccional',
+      centro: 'Centro de Diseño y Metrología',
+      regional: 'Regional Distrito Capital',
+    },
+    {
+      nombre: 'Martha Isabel Martínez Vargas',
+      cargo: 'Revisora de estilo',
+      centro: 'Centro Industrial Del Diseño Y La Manufactura',
+      regional: 'Regional Santander',
+    },
+  ],
+  desarrolloProducto: [
+    {
+      nombre: 'Francisco José Lizcano Reyes',
+      cargo: 'Responsable del equipo',
+    },
+    {
+      nombre: 'Leyson Fabian Castaño Perez',
+      cargo: 'Soporte organizacional',
+    },
+    {
+      nombre: ['Yuly Rey'],
+      cargo: 'Diseño web y Producción Audiovisual',
+    },
+    {
+      nombre: 'Camilo Andres Bolaño Rey',
+      cargo: 'Desarrollo Front-End',
+    },
+    {
+      centro: 'Centro Industrial del Diseño y la Manufactura',
+      regional: 'Regional Santander',
+    },
+  ],
+  gestoresRepositorio: [
+    {
+      nombre: 'Milady Tatiana Villamil Castellanos',
+      cargo: ['Desarrollo front-end', 'Validación de recursos'],
+      centro: 'Centro de comercio y servicios',
+      regional: 'Regional Tolima',
+    },
+  ],
+}
+
+export const referencias = [
+  {
+    referencia:
+      'Álvarez, E. A. (2020). Emilio Alonso Älvarez - Blog Profesional.',
+    link: 'https ://emilioalonsoalvarez.files.wordpress.com',
+  },
+  {
+    referencia: 'Ateortua, K. S. (2013). Slideshare. Recuperado el 2020. ',
+    link: 'https://es.slideshare.net/ksateortua/421-reserva-de-hotel',
+  },
+  {
+    referencia: 'Biblioteca Técnica Hotelera. (2003). ',
+    link:
+      'http://ual.dyndns.org/Biblioteca/T%C3%A9cnicas%20Hoteleras/Pdf/Unidad%2003.pdf. ',
+  },
+  {
+    referencia:
+      'Boullon, R. C. (2006). Planificación del Espacio Turístico. Ciudad de México: Editorial Trillas.',
+    link:
+      'https://d1wqtxts1xzle7.cloudfront.net/52281375/0107-planificacion-del-espacio-turistico-roberto-c-ballon.pdf?1490316133=&response-content-disposition=inline%3B+filename%3DPLANIFICACION_DEL_ESPACIO_TuRISTICO.pdf&Expires=1602090604&Signature=Tj3mbU9dZo6Jguw',
+  },
+  {
+    referencia: 'Hosteltur. (Noviembre de 2016). ',
+    link:
+      'https://www.hosteltur.com. Obtenido de https://www.hosteltur.com/files/web/templates/term/wikitur.pdf',
+  },
+  {
+    referencia:
+      'Marriott International. (2008). Haciendo la reservación. Excelencia Hotelera, 19-20.Soler, J. R. (2.000). Técnicas de Gestión y Dirección Hotelera. Barcelona: Ediciones Gestión 2.000 S.A.',
+  },
+  {
+    referencia: 'Villegas, A. N. (Enero de 2014). www.hotelesdeblue.com.',
+    link:
+      'ealdeminasbajio.mx/media/750eb-POLITICAS-Y-REGLAMENTO-INTERNO-HABITACIONES-DE-UN-HOTEL.pdf',
+  },
+]
+
+export const glosario = [
+  {
+    termino: 'Availability Disponibilidad',
+    significado:
+      'En hotelería, número de habitaciones o plazas disponibles para la venta en un día concreto.',
+  },
+  {
+    termino: 'Cancelación',
+    significado: 'En hotelería, anulación de una reserva confirmada',
+  },
+  {
+    termino: 'Cupo',
+    significado:
+      'En hotelería y transporte, conjunto de plazas reservadas sin asignación de un nombre de cliente y que precisan confirmación.',
+  },
+  {
+    termino: 'Forecast',
+    significado:
+      'En marketing y ventas, voz inglesa para la proyección, pronóstico o predicción futura estimada en el volumen de negocio o más concretamente en la previsión de ventas.',
+  },
+  {
+    termino: 'IATA Asociación Internacional de Transporte Aéreo',
+    significado:
+      'Colectivo que tiene entre sus principales objetivos asegurar el normal desarrollo del tráfico aéreo, con la mayor velocidad, comodidad y eficiencia posibles para las compañías aéreas. (Hosteltur, 2016)',
+  },
+  {
+    termino: 'No Show',
+    significado:
+      'En hotelería, expresión inglesa para la anulación de una reserva confirmada.',
+  },
+  {
+    termino: 'TOverbooking Sobreventa',
+    significado:
+      'En turismo, venta excesiva que se realiza sobre un servicio con el objeto de garantizar su plena ocupación.',
+  },
+  {
+    termino: 'PNR Passenger Name Record. Expresión',
+    significado:
+      'Expresión inglesa para Registro de Nombre de Pasajero, contiene todos los datos y eventos relacionados con la reserva de un pasajero o un grupo de pasajeros que viajan como un conjunto. (Hosteltur, 2016)',
+  },
+  {
+    termino: 'Planning de Ocupación ',
+    significado:
+      'En hotelería, panel o casillero físico o digital en el que están representadas todas las habitaciones de un establecimiento de alojamiento y que sirve para gestionar el estado en que se encuentran (libre, ocupada, bloqueada, etc.).',
+  },
+  {
+    termino: 'Rooming list',
+    significado:
+      'En hotelería, expresión inglesa para la relación de habitaciones asignadas a personas o grupos, elaborado en la recepción.',
+  },
+  {
+    termino: 'Waiting list Lista de espera',
+    significado:
+      'En turismo y transporte, relación de personas inscritas en espera de la cancelación de la reserva de un servicio, al haber más demanda que oferta para el mismo en una fecha y horario determinados. (Hosteltur, 2016)',
+  },
+]
+
+export const complementario = [
+  {
+    texto: 'Emilio Alonso Álvarez, (2012) Unidad de Trabajo 6 -  Reservas',
+    tipo: 'Documento',
+    link:
+      'https://emilioalonsoalvarez.files.wordpress.com/2012/10/ut6-reservas.pdf',
+  },
+  {
+    texto: 'Centro de Capacitación Amadeus (2009) Manual de hoteles',
+    tipo: 'Manual',
+    link:
+      'https://drive.google.com/drive/folders/1tIDJ2fBqDVnlQXqt0tmg8u-P0D5e3nev',
+  },
+]
