@@ -43,100 +43,100 @@
             b Tarifas calificadas (Qualified)
             b-none A diferencia de las anteriores han sido diseñadas para cierto grupo de pasajeros que se ajustan a las condiciones y  requisitos previamente establecidos por el establecimiento hotelero.
     #t_2_1.pb-5.h2 2.1 Alfabeto aeronáutico
-      figure.mt-5
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      p.mt-5 El alfabeto aeronáutico, conocido como alfabeto fonético náutico o fonético internacional, 
-        b es un sistema de códigos alfanuméricos utilizado en la aviación, la navegación, los servicios militares y en el ámbito turístico para comunicarse de manera eficaz,
-        b-none nombrando cada letra del abecedario con una palabra, cuya inicial se toma como equivalente cuando se va a deletrear un código o record.
-      br
-      p Debido a la dificultad de transmitir información por radio o teléfono y teniendo en cuenta que en ocasiones se desvirtúa la comunicación por interferencia en la red y para que el receptor pueda recibir el mensaje, la Organización de Aviación Civil Internacional (OACI) (Turismo, 2020).
-      br
-      p La OACI establece un estándar de palabras que son  universalmente aceptadas y utilizadas, a saber:
-      div.div-general.mt-5
-        div.div-azul-rounded
-          p
-            b A: 
-            b-none Alfa
-            br
-            b B: 
-            b-none Bravo
-            br
-            b C: 
-            b-none Charlie
-            br
-            b D: 
-            b-none Delta
-            br
-            b E: 
-            b-none Eco
-            br
-            b F: 
-            b-none Fostrot
-            br
-            b G: 
-            b-none Golf
-        div.div-azul-rounded
-          p
-            b H: 
-            b-none Hotel
-            br
-            b I: 
-            b-none India
-            br
-            b J: 
-            b-none Juliet
-            br
-            b K: 
-            b-none Kilo
-            br
-            b L: 
-            b-none Lima
-            br
-            b M: 
-            b-none Mike
-            br
-            b N: 
-            b-none November
-        div.div-azul-rounded
-          p
-            b O: 
-            b-none Oscar
-            br
-            b P: 
-            b-none Papa
-            br
-            b Q: 
-            b-none Quebe
-            br
-            b R: 
-            b-none Romeo
-            br
-            b S: 
-            b-none Sierra
-            br
-            b T: 
-            b-none Tango
-            br
-            b U: 
-            b-none Uniform
-        div.div-azul-rounded
-          p
-            b V: 
-            b-none Victor
-            br
-            b W: 
-            b-none Whiskey
-            br
-            b X: 
-            b-none -Rai
-            br
-            b Y: 
-            b-none Yankee
-            br
-            b Z: 
-            b-none Zulu
-            br
+    figure.mt-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p.mt-5 El alfabeto aeronáutico, conocido como alfabeto fonético náutico o fonético internacional, 
+      b es un sistema de códigos alfanuméricos utilizado en la aviación, la navegación, los servicios militares y en el ámbito turístico para comunicarse de manera eficaz,
+      b-none nombrando cada letra del abecedario con una palabra, cuya inicial se toma como equivalente cuando se va a deletrear un código o record.
+    br
+    p Debido a la dificultad de transmitir información por radio o teléfono y teniendo en cuenta que en ocasiones se desvirtúa la comunicación por interferencia en la red y para que el receptor pueda recibir el mensaje, la Organización de Aviación Civil Internacional (OACI) (Turismo, 2020).
+    br
+    p La OACI establece un estándar de palabras que son  universalmente aceptadas y utilizadas, a saber:
+    div.div-general.mt-3
+      div.div-azul-rounded
+        p
+          b A: 
+          b-none Alfa
+          br
+          b B: 
+          b-none Bravo
+          br
+          b C: 
+          b-none Charlie
+          br
+          b D: 
+          b-none Delta
+          br
+          b E: 
+          b-none Eco
+          br
+          b F: 
+          b-none Fostrot
+          br
+          b G: 
+          b-none Golf
+      div.div-azul-rounded
+        p
+          b H: 
+          b-none Hotel
+          br
+          b I: 
+          b-none India
+          br
+          b J: 
+          b-none Juliet
+          br
+          b K: 
+          b-none Kilo
+          br
+          b L: 
+          b-none Lima
+          br
+          b M: 
+          b-none Mike
+          br
+          b N: 
+          b-none November
+      div.div-azul-rounded
+        p
+          b O: 
+          b-none Oscar
+          br
+          b P: 
+          b-none Papa
+          br
+          b Q: 
+          b-none Quebe
+          br
+          b R: 
+          b-none Romeo
+          br
+          b S: 
+          b-none Sierra
+          br
+          b T: 
+          b-none Tango
+          br
+          b U: 
+          b-none Uniform
+      div.div-azul-rounded
+        p
+          b V: 
+          b-none Victor
+          br
+          b W: 
+          b-none Whiskey
+          br
+          b X: 
+          b-none -Rai
+          br
+          b Y: 
+          b-none Yankee
+          br
+          b Z: 
+          b-none Zulu
+          br
     #t_2_2.pb-5.h2 2.2 Códigos aeronáuticos
       p.mt-4 A continuación se definen los códigos aeronáuticos como  un sistema de identificación que se utiliza  para nombrar de forma segura a cada aeropuerto y diferenciarlo  de los demás  a través de un sistema de codificación denominado códigos  IATA  y OACI.
       .row.mt-5

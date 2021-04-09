@@ -205,53 +205,18 @@ export const creditos = {
     {
       nombre: 'Rafael Neftalí Lizcano Reyes',
       cargo: 'Responsable del equipo',
-      centro: 'Centro Industrial Del Diseño Y La Manufactura',
-      regional: 'Regional Santander',
+      centro: 'Centro de Servicios y Gestión Empresarial',
+      regional: 'Regional Antioquia',
     },
     {
-      nombre: 'Tania Yaneth Ramírez Benítez',
-      cargo: 'Soporte organizacional',
+      nombre: 'Sandra Isabel Suarez Delgado',
+      cargo: 'Experta',
       centro: 'CENTRO DE COMERCIO Y SERVICIOS',
       regional: 'Regional Tolima',
     },
     {
-      nombre: '',
-      cargo: 'Experta temática',
-      centro: 'Centro Agropecuario de Buga',
-      regional: 'Regional valle',
-    },
-    {
-      nombre: '',
-      cargo: 'Experto temático',
-      centro: 'Centro de Gestión Industrial',
-      regional: 'Regional Distrito Capital',
-    },
-    {
-      nombre: '',
-      cargo: 'Experto temático',
-      centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-    },
-    {
-      nombre: '',
-      cargo: 'Experto temático',
-      centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-    },
-    {
-      nombre: '',
-      cargo: 'Experto temático',
-      centro: 'Deutsche Gesellschaft für',
-      regional: 'Internationale Zusammenarbeit (GIZ)',
-    },
-    {
-      nombre: '',
-      cargo: 'Diseñador instruccional',
-      centro: 'Centro para la Industria y la Comunicación Gráfica',
-      regional: 'Regional Distrito Capital',
-    },
-    {
-      nombre: '',
-      cargo: 'Evaluador instruccional',
-      centro: 'Centro de Diseño y Metrología',
+      nombre: 'Gloria Esperanza Ortiz Russi',
+      cargo: 'Diseñador Instruccional ',
       regional: 'Regional Distrito Capital',
     },
     {
@@ -271,11 +236,21 @@ export const creditos = {
       cargo: 'Soporte organizacional',
     },
     {
-      nombre: ['Yuly Rey'],
+      nombre: [
+        'Camilo Andrés Villamizar Lizcano',
+        'Victor Raúl Cárdernas Cáceres',
+        'Wilson Andres Arenales Cáceres',
+        'Yuly Andrea Rey Quiñonez',
+      ],
       cargo: 'Diseño web y Producción Audiovisual',
     },
     {
-      nombre: 'Camilo Andres Bolaño Rey',
+      nombre: [
+        'Edward Leonardo Pico Cabra',
+        'Daniel Ricardo Mutis Gómez',
+        'Luis Gabriel Urueta Alvarez',
+        'Ricardo Alfonso González Vargas',
+      ],
       cargo: 'Desarrollo Front-End',
     },
     {
@@ -286,7 +261,7 @@ export const creditos = {
   gestoresRepositorio: [
     {
       nombre: 'Milady Tatiana Villamil Castellanos',
-      cargo: ['Desarrollo front-end', 'Validación de recursos'],
+      cargo: ['Validación de recursos'],
       centro: 'Centro de comercio y servicios',
       regional: 'Regional Tolima',
     },
