@@ -245,12 +245,7 @@ export const creditos = {
       cargo: 'Diseño web y Producción Audiovisual',
     },
     {
-      nombre: [
-        'Edward Leonardo Pico Cabra',
-        'Daniel Ricardo Mutis Gómez',
-        'Luis Gabriel Urueta Alvarez',
-        'Ricardo Alfonso González Vargas',
-      ],
+      nombre: ['Camilo Andres Bolaño Rey ', 'Gustavo Adolfo Marun Suarez'],
       cargo: 'Desarrollo Front-End',
     },
     {
