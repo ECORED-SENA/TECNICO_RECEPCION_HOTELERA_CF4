@@ -55,41 +55,41 @@
 
 
     #t_1_1.h3.mt-5 1.1 Tipos
-      .row.mt-5
-        .col-lg-3
-          figure.mb-5
-            img(src='@/assets/curso/img12.jpg', alt='Texto que describa la imagen')
-        .col-lg-9
-          h6 Reservas telefónicas.
-          p Las reservas telefónicas son el medio más utilizado por los clientes individuales, incluso por empresas y agencias de viajes. Los establecimientos hoteleros disponen de medios técnicos a través del internet y las diferentes redes sociales, que resultan más accesibles, lo que ha hecho desaparecer gradualmente las líneas telefónicas  gratuitas para usuarios.
-      .row
-        .col-lg-3
-          figure.mb-5
-            img(src='@/assets/curso/img13.jpg', alt='Texto que describa la imagen')
-        .col-lg-9
-          h6 Correo electrónico.
-          p Es un método de reservas sencillo muy  utilizado, porque permite  el contacto directo entre el cliente y el hotel. Consiste en reservar, confirmar y cancelar respectivamente una solicitud de reserva, de manera que el cliente puede disponer de un documento de confirmación. 
-      .row
-        .col-lg-3
-          figure.mb-5
-            img(src='@/assets/curso/img14.jpg', alt='Texto que describa la imagen')
-        .col-lg-9
-          h6 Internet y agencias de viajes online.
-          p Las centrales de reservas incluyen la posibilidad de realizarlas online a través de una determinada página web, relevando la llamada telefónica, este es un modelo de distribución adoptado por la mayoría de las centrales de reservas y que goza de un grado de aceptación excelente por parte de los usuarios.
-      .row
-        .col-lg-3
-          figure.mb-5
-            img(src='@/assets/curso/img15.jpg', alt='Texto que describa la imagen')
-        .col-lg-9
-          h6 Agencias de viajes.
-          p Algunas agencias de viajes mayoristas y turoperadores, a pesar de disponer de oficinas físicas y departamentos de “booking”, disponen de espacios limitados en sus webs para el acceso de profesionales desde los que éstos pueden realizar sus gestiones de intermediación.
-      .row
-        .col-lg-3
-          figure.mb-5
-            img(src='@/assets/curso/img16.jpg', alt='Texto que describa la imagen')
-        .col-lg-9
-          h6 Sistemas de distribución.
-          p Los sistemas computarizados de reservas, conocidos como CRS (Computer Reservation Systems) y los sistemas de distribución global, conocidos como GDS (Global Distribution Systems). Se trata de sistemas basados en la informática y en la interconexión y registro de datos que permiten la realización de reservas desde los diferentes puntos de venta (Álvarez, 2012)
+    .row.mt-5
+      .col-lg-3
+        figure.mb-5
+          img(src='@/assets/curso/img12.jpg', alt='Texto que describa la imagen')
+      .col-lg-9.ps-5
+        h6 Reservas telefónicas.
+        p Las reservas telefónicas son el medio más utilizado por los clientes individuales, incluso por empresas y agencias de viajes. Los establecimientoshoteleros disponen de medios técnicos a través del internet y las diferentes redes sociales, que resultan más accesibles, lo que ha hecho desaparecergradualmente las líneas telefónicas  gratuitas para usuarios.
+    .row
+      .col-lg-3
+        figure.mb-5
+          img(src='@/assets/curso/img13.jpg', alt='Texto que describa la imagen')
+      .col-lg-9.ps-5
+        h6 Correo electrónico.
+        p Es un método de reservas sencillo muy  utilizado, porque permite  el contacto directo entre el cliente y el hotel. Consiste en reservar, confirmar ycancelar respectivamente una solicitud de reserva, de manera que el cliente puede disponer de un documento de confirmación. 
+    .row
+      .col-lg-3
+        figure.mb-5
+          img(src='@/assets/curso/img14.jpg', alt='Texto que describa la imagen')
+      .col-lg-9.ps-5
+        h6 Internet y agencias de viajes online.
+        p Las centrales de reservas incluyen la posibilidad de realizarlas online a través de una determinada página web, relevando la llamada telefónica, este esun modelo de distribución adoptado por la mayoría de las centrales de reservas y que goza de un grado de aceptación excelente por parte de los usuarios.
+    .row
+      .col-lg-3
+        figure.mb-5
+          img(src='@/assets/curso/img15.jpg', alt='Texto que describa la imagen')
+      .col-lg-9.ps-5
+        h6 Agencias de viajes.
+        p Algunas agencias de viajes mayoristas y turoperadores, a pesar de disponer de oficinas físicas y departamentos de “booking”, disponen de espacioslimitados en sus webs para el acceso de profesionales desde los que éstos pueden realizar sus gestiones de intermediación.
+    .row
+      .col-lg-3
+        figure.mb-5
+          img(src='@/assets/curso/img16.jpg', alt='Texto que describa la imagen')
+      .col-lg-9.ps-5
+        h6 Sistemas de distribución.
+        p Los sistemas computarizados de reservas, conocidos como CRS (Computer Reservation Systems) y los sistemas de distribución global, conocidos como GDS (Global Distribution Systems). Se trata de sistemas basados en la informática y en la interconexión y registro de datos que permiten la realización de reservas desde los diferentes puntos de venta (Álvarez, 2012)
     #t_1_2.h3.mt-5.mb-5 1.2 Ventajas y desventajas
       .cajon--rojo.p-4.mt-3
           p Se puede usar dos o más columnas para diagramar el texto, estos elementos pueden presentar contenedores que permitan diferenciar ideas o conceptos.
