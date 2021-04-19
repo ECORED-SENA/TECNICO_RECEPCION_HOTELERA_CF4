@@ -209,19 +209,18 @@ export const creditos = {
       regional: 'Regional Antioquia',
     },
     {
-      nombre: 'Sandra Isabel Suarez Delgado',
-      cargo: 'Experta',
-      centro: 'CENTRO DE COMERCIO Y SERVICIOS',
-      regional: 'Regional Tolima',
+      nombre: 'Amparo Virgina Moreno Cantero',
+      cargo: 'Experto temático',
+      centro: 'CENTRO DE SERVICIOS Y GESTIÓN EMPRESARIAL',
     },
     {
-      nombre: 'Gloria Esperanza Ortiz Russi',
-      cargo: 'Diseñador Instruccional ',
-      regional: 'Regional Distrito Capital',
+      nombre: 'Leidy Carolina Arias Aguirre',
+      cargo: 'Diseñadora Instruccional ',
+      centro: 'Centro de diseño y metrología',
     },
     {
       nombre: 'Martha Isabel Martínez Vargas',
-      cargo: 'Revisora de estilo',
+      cargo: 'Productora audiovisual',
       centro: 'Centro Industrial Del Diseño Y La Manufactura',
       regional: 'Regional Santander',
     },
@@ -267,27 +266,26 @@ export const referencias = [
   {
     referencia:
       'Álvarez, E. A. (2020). Emilio Alonso Älvarez - Blog Profesional.',
-    link: 'https ://emilioalonsoalvarez.files.wordpress.com',
+    link: 'https://emilioalonsoalvarez.wordpress.com/',
   },
   {
-    referencia: 'Ateortua, K. S. (2013). Slideshare. Recuperado el 2020. ',
+    referencia: 'Atehortúa, K. S. (2013). Slideshare. Recuperado el 2020. ',
     link: 'https://es.slideshare.net/ksateortua/421-reserva-de-hotel',
   },
   {
-    referencia: 'Biblioteca Técnica Hotelera. (2003). ',
+    referencia: 'Biblioteca Técnica Hotelera. (2003). Obtenido de',
     link:
-      'http://ual.dyndns.org/Biblioteca/T%C3%A9cnicas%20Hoteleras/Pdf/Unidad%2003.pdf. ',
+      'http://ual.dyndns.org/Biblioteca/T%C3%A9cnicas%20Hoteleras/Pdf/Unidad%2003.pdf ',
   },
   {
     referencia:
-      'Boullon, R. C. (2006). Planificación del Espacio Turístico. Ciudad de México: Editorial Trillas.',
+      'Boullon, R. C. (2006). Planificación del Espacio Turístico. Ciudad de México: Editorial Trillas. Obtenido de',
     link:
-      'https://d1wqtxts1xzle7.cloudfront.net/52281375/0107-planificacion-del-espacio-turistico-roberto-c-ballon.pdf?1490316133=&response-content-disposition=inline%3B+filename%3DPLANIFICACION_DEL_ESPACIO_TuRISTICO.pdf&Expires=1602090604&Signature=Tj3mbU9dZo6Jguw',
+      'http://prepacihuatlan.sems.udg.mx/sites/default/files/planificaciondelespacioturisticorobertoc.boullon.pdf',
   },
   {
-    referencia: 'Hosteltur. (Noviembre de 2016). ',
-    link:
-      'https://www.hosteltur.com. Obtenido de https://www.hosteltur.com/files/web/templates/term/wikitur.pdf',
+    referencia: 'Hosteltur. (Noviembre de 2016). Obtenido de ',
+    link: 'https://www.hosteltur.com/files/web/templates/term/wikitur.pdf',
   },
   {
     referencia:
@@ -296,7 +294,7 @@ export const referencias = [
   {
     referencia: 'Villegas, A. N. (Enero de 2014). www.hotelesdeblue.com.',
     link:
-      'ealdeminasbajio.mx/media/750eb-POLITICAS-Y-REGLAMENTO-INTERNO-HABITACIONES-DE-UN-HOTEL.pdf',
+      'https://realdeminasbajio.mx/media/POLITICAS-Y-REGLAMENTO-INTERNO-HABITACIONES-DE-UN-HOTEL.pdf',
   },
 ]
 
@@ -331,7 +329,7 @@ export const glosario = [
       'En hotelería, expresión inglesa para la anulación de una reserva confirmada.',
   },
   {
-    termino: 'TOverbooking Sobreventa',
+    termino: 'Overbooking Sobreventa',
     significado:
       'En turismo, venta excesiva que se realiza sobre un servicio con el objeto de garantizar su plena ocupación.',
   },

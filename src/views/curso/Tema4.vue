@@ -6,7 +6,7 @@
     br
     p Este proceso consiste en que el 
       b establecimiento hotelero asume el compromiso de separar o apartar una habitación para uno o varios huéspedes, 
-      b-none lo cual requiere de un depósito o pago anticipado, por parte del huésped como garantía de la reserva, por parte del hotel (Ateortua, 2013).
+      b-none lo cual requiere de un depósito o pago anticipado, por parte del huésped como garantía de la reserva, por parte del hotel (Atehortúa, 2013).
     br  
     p Existen procedimientos técnicos para la realización de reservaciones:
     div.div-general.mt-5

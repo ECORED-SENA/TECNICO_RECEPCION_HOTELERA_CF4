@@ -42,11 +42,8 @@
           p 
             b Tarifas calificadas (Qualified)
             b-none A diferencia de las anteriores han sido diseñadas para cierto grupo de pasajeros que se ajustan a las condiciones y  requisitos previamente establecidos por el establecimiento hotelero.
-    #t_2_1.pb-5.h2 2.1 Alfabeto aeronáutico
-    figure.mt-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mt-5 El alfabeto aeronáutico, conocido como alfabeto fonético náutico o fonético internacional, 
+    #t_2_1.h2 2.1 Alfabeto aeronáutico
+    p El alfabeto aeronáutico, conocido como alfabeto fonético náutico o fonético internacional, 
       b es un sistema de códigos alfanuméricos utilizado en la aviación, la navegación, los servicios militares y en el ámbito turístico para comunicarse de manera eficaz,
       b-none nombrando cada letra del abecedario con una palabra, cuya inicial se toma como equivalente cuando se va a deletrear un código o record.
     br
@@ -107,7 +104,7 @@
           b-none Papa
           br
           b Q: 
-          b-none Quebe
+          b-none Quebec
           br
           b R: 
           b-none Romeo

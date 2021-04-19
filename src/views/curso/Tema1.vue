@@ -92,7 +92,7 @@
         p Los sistemas computarizados de reservas, conocidos como CRS (Computer Reservation Systems) y los sistemas de distribución global, conocidos como GDS (Global Distribution Systems). Se trata de sistemas basados en la informática y en la interconexión y registro de datos que permiten la realización de reservas desde los diferentes puntos de venta (Álvarez, 2012)
     #t_1_2.h3.mt-5.mb-5 1.2 Ventajas y desventajas
       .cajon--rojo.p-4.mt-3
-          p Se puede usar dos o más columnas para diagramar el texto, estos elementos pueden presentar contenedores que permitan diferenciar ideas o conceptos.
+          p Los clientes particulares, las empresas y las agencias de viajes, cuando se dirigen directamente a las empresas hoteleras, hacen uso del teléfono como medio más habitual.
       .cajon--rojo.p-4.mt-3
           p El correo electrónico es un canal que resulta muy sencillo y asequible a cualquier cliente, empresa, agencia de viajes o  proveedor, porque ha sustituido las reservas telefónicas.
       .cajon--rojo.p-4.mt-3
