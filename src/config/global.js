@@ -1,7 +1,7 @@
 export const global = {
   componenteFormativo: 'Procedimientos de reservas',
   descripcionCurso:
-    'Bienvenido al componente formativo 4 Procedimientos de Reservas! Contiene una descripción detallada del procedimiento técnico para reservas hoteleras, donde le explica cómo puede solicitar la disponibilidad y registrar paso a paso la información requerida, indicando el orden para confirmación de la  reservación: estado, condiciones y políticas. Así mismo, estará en capacidad de generar  los reportes de reservas de manera correcta. ¡Nuevamente bienvenido al programa de formación Técnico en Servicio de Recepción Hotelera!',
+    'Bienvenido al componente formativo 4 Procedimientos de Reservas! <br/><br/> Contiene una descripción detallada del procedimiento técnico para reservas hoteleras, donde le explica cómo puede solicitar la disponibilidad y registrar paso a paso la información requerida, indicando el orden para confirmación de la  reservación: estado, condiciones y políticas. Así mismo, estará en capacidad de generar  los reportes de reservas de manera correcta. <br/><br/> ¡Nuevamente bienvenido al programa de formación Técnico en Servicio de Recepción Hotelera! <br/><br/> "Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo" <br/> - Benjamín Franklin',
   imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
 }

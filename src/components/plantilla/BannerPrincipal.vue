@@ -11,11 +11,11 @@
         .banner-principal__componente
           h1.mb-0 {{globalData.componenteFormativo}}
         .banner-principal__descripcion
-          p.mb-0 ¡Bienvenido al componente formativo 4 Procedimientos de Reservas! <br/><br/> Contiene una descripción detallada del procedimiento técnico para reservas hoteleras, donde le explica cómo puede solicitar la disponibilidad y registrar paso a paso la información requerida, indicando el orden para confirmación de la  reservación: estado, condiciones y políticas. Así mismo, estará en capacidad de generar  los reportes de reservas de manera correcta <br/><br/>  ¡Nuevamente bienvenido al programa de formación Técnico en Servicio de Recepción Hotelera! <br/><br/>"Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo"<br/> - Benjamín Franklin
+          p.mb-0(v-html="globalData.descripcionCurso")
         .banner-principal__accion
           router-link.boton(:to="{name: iniciarLnk.nombreRuta }")
             span.me-1 Iniciar
-            i(class="fas fa-angle-right")
+            i.fas.fa-angle-right
 
       .d-none.d-lg-block.col-lg-5.align-self-end
         img(:src="globalData.imagenBannerPrincipal")
@@ -23,7 +23,7 @@
 
 <script>
 import { global } from '../../config/global'
-import mixins from '../../mixins/mixins'
+import mixins from '../../mixins/plantillaMixins'
 export default {
   name: 'BannerPrincipal',
   mixins: [mixins],
@@ -35,7 +35,7 @@ export default {
 
 <style lang="sass" scoped>
 .banner-principal
-  span, p, h1
+  p, h1
     color: $white
 
   .tarjeta
@@ -45,6 +45,9 @@ export default {
 
 
   &__info
+    display: flex
+    flex-direction: column
+    justify-content: center
 
   &__programa
     display: flex
