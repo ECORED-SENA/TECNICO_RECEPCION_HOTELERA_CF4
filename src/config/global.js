@@ -204,23 +204,24 @@ export const creditos = {
   contenidoInstruccional: [
     {
       nombre: 'Rafael Neftalí Lizcano Reyes',
-      cargo: 'Responsable del equipo',
-      centro: 'Centro de Servicios y Gestión Empresarial',
-      regional: 'Regional Antioquia',
+      cargo: 'Responsable Equipo',
+      centro: 'Centro Industrial Del Diseño Y La Manufactura',
+      regional: 'Regional Santander',
     },
     {
-      nombre: 'Amparo Virgina Moreno Cantero',
-      cargo: 'Experto temático',
-      centro: 'CENTRO DE SERVICIOS Y GESTIÓN EMPRESARIAL',
+      nombre: 'Sandra Isabel Suarez Delgado',
+      cargo: 'Experta',
+      centro: 'CENTRO DE COMERCIO Y SERVICIOS',
+      regional: 'Regional Tolima',
     },
     {
-      nombre: 'Leidy Carolina Arias Aguirre',
-      cargo: 'Diseñadora Instruccional ',
-      centro: 'Centro de diseño y metrología',
+      nombre: 'Gloria Esperanza Ortiz Russi',
+      cargo: 'Diseñador Instruccional ',
+      regional: 'Regional Distrito Capital',
     },
     {
       nombre: 'Martha Isabel Martínez Vargas',
-      cargo: 'Productora audiovisual',
+      cargo: 'Revisora de estilo',
       centro: 'Centro Industrial Del Diseño Y La Manufactura',
       regional: 'Regional Santander',
     },
@@ -244,7 +245,7 @@ export const creditos = {
       cargo: 'Diseño web y Producción Audiovisual',
     },
     {
-      nombre: ['Camilo Andres Bolaño Rey ', 'Gustavo Adolfo Marun Suarez'],
+      nombre: ['Camilo Andres Bolaño Rey '],
       cargo: 'Desarrollo Front-End',
     },
     {
@@ -292,9 +293,8 @@ export const referencias = [
       'Marriott International. (2008). Haciendo la reservación. Excelencia Hotelera, 19-20.Soler, J. R. (2.000). Técnicas de Gestión y Dirección Hotelera. Barcelona: Ediciones Gestión 2.000 S.A.',
   },
   {
-    referencia: 'Villegas, A. N. (Enero de 2014). www.hotelesdeblue.com.',
-    link:
-      'https://realdeminasbajio.mx/media/POLITICAS-Y-REGLAMENTO-INTERNO-HABITACIONES-DE-UN-HOTEL.pdf',
+    referencia: 'Villegas, A. N. (Enero de 2014). www.hotelesdeepblue.com.',
+    link: 'http://www.hoteldeepblue.com/terminos.pdf',
   },
 ]
 
