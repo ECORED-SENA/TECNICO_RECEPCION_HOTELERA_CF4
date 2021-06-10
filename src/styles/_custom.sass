@@ -1,197 +1,50 @@
-// BANNER PRINCIPAL
-.resultados
-    display: flex
-    height: fit-content
-    p
-        display: inline-block
-        margin: auto 1rem
-    .titulo-resultados
-      width: 14rem
-        
-.banner-principal
-  .tarjeta
-    background-color: #FFB74D !important
-  p
-    color: #111E61 !important
-  h1
-    color: #111E61 !important
-  img
-    margin-bottom: 2rem
-  .boton
-    background-color: #FFEE58
-    span
-      color: #111E61 !important
-.banner-interno
-  h1
-    color: #111E61 !important 
-//ESTILOS TEMA 1 
-.img-col
-  width: 70%
-  margin: auto
-  //CONTENEDORES 
-.div-amarillo
-  background-color: #FFFBDC
-  border-radius: 1rem
-  display: flex
-  img
-    width: 10%
-    padding: 1rem
-    margin: 1rem
-  h1 
-    margin: auto 1rem
-  p
-    margin: 2rem
-.div-naranja
-  background-color: #FFF1DB
-  border-radius: 1rem
-  display: flex
-  margin: 1rem 0rem
-  h4 
-    margin: 2rem 2rem
-.div-azul
-  background-color: #F3F9FF
-  border-radius: 2rem
-  display: flex
-  margin: 1rem 0rem
-  img
-    width: 10%
-    margin: 1rem 2rem
-  .img-col
-    width: 112px
-    margin: 1rem 2rem
-  .img-5
-    width: 69px
-  h4 
-    margin: auto 1rem
-  p 
-    margin: auto 1rem
-.cajon--rojo
-  background-color: #F3F9FF
-  border-radius: 1rem
-  p
-    margin: 1rem
-.cajon--rojo:before
-  width: 25px
-  height: 25px
-  background-color: #FFB74D
-//ESTILOS TEMA 2
-  //CONTENEDORES
-.div-general
-  display: flex
-  justify-content: center
-  flex-wrap: wrap
-  .div-azul-rounded
-    background-color: #F3F9FF
-    border-radius: 1rem 5rem 1rem 1rem
-    display: flex
-    margin: 1rem 1rem
-    width: 12rem
-    height: 15rem
-    img
-      width: 10%
-      margin: 1rem 2rem
-    .img-col
-      width: 112px
-      margin: 1rem 2rem
-    h4 
-      margin: 1rem 1rem
-    p 
-      margin: auto 1rem
-      padding: 2rem
-.tarjeta.tarjeta--morada
-  padding: 3rem
-  background-color: #FFEE58
-  h4
-    color:  #111E61
-    font-size: 2rem
-    margin: auto 1rem
-  .boton.boton--b
-    background-color: #111E61
-    margin: auto
-//ESTILO TEMA 3
-.container-acordion
-    margin: auto 2rem
-    padding: auto
-//ESTILO TEMA 4 
-.div-box-general-2
-    width: 236px
-    height: 156px
-    background-color: #F3F9FF
-    border-radius: 1rem
-    justify-content: center
-    padding: 1rem
-    display: inline-block
-    flex-wrap: wrap
-    margin: 1rem
-    flex-grow: 1
-    .div-box
-        justify-content: center
-    
-    .img-box
-        width: 93px
-        margin: auto
-    .h6
-        font-size: 18px  
-        font-weight: 600
-        width: 80%
-        text-align: center
-        margin: auto  
-//?ESTILOS TEMA 5
-.div-box-general-3
-    background-color: #FFF1DB
-    border-radius: 2rem
-    justify-content: center
-    padding: 2rem
-    display: inline-flex
-    flex-wrap: wrap
-    margin: auto
-    p
-        font-size: 30px
-        font-weight: normal
-        text-align: right
-        width: 70%
-    
-.rp2
-    display: FLEX
-    width: 100%
-    padding: 1rem
-    border-radius: 20px
-    flex-wrap: wrap
-    .img-rp3
-      max-width: 150px
-      display: inline-block
-      margin: 1rem 2rem 
-    p
-        margin-left: 1rem
-        display: inline-block
-        max-width: 70%
-        margin: auto
-    
+.bg-gris
+    background-color: #F3F9FF !important
+.bg-acento-contenido-claro
+  background-color: #FEE4BF !important
+.tabla-a
+  overflow-x: hidden
+  thead
+    border-top: none !important
+    background-color: #FA9500
+    color: $white
+    th
+      border: none
+    td
+      white-space: nowrap
+    table
+      table-layout: auto
+.td-gris
+  background-color: #F6F6F6
+.container-amarillo-claro
+  background-color: #FFFCDD
+  border-radius: 10px
+.color-naranja-claro
+  background-color: #FEE4BF
+.cajon2
+  position: relative
+  &:after
+    content: ''
+    background-color: #FA9500 
+    width: 28px
+    height: 29px
+    position: absolute
+    bottom: 15px
+    right: 10px
+    display: block
 
-.img-rp2
-    max-width: 54px
-    display: inline-block
-    margin: 1rem  
-
-.rp3
-    display: flex
-    background-color:#111E61
-    width: 100%
-    padding: 1rem
-    border-radius: 20px
-    height: fit-content
-    h2
-        align-content: center
-        height: fit-content
-        
-        color: white
-    p
-        align-content: center 
-        height: fit-content 
-        margin: auto 1rem 
-        color: white
-.img.col
-  width: 80%
-.p 
-  width: 80%
-  margin-left: 3rem
+.container-icon-text
+  margin-left: 20px
+  p
+    margin-left: 40px
+    margin-bottom: 0
+  position: relative
+  background-color: #F3F9FF
+  &> img
+    position: absolute
+    left: 0%
+    top: 0
+    transform: translateX(-45%) translateY(0%)
+    display: block
+    width: 60px
+    margin: 0 auto
