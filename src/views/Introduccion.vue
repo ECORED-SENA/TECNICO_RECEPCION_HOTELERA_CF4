@@ -10,7 +10,6 @@
       h1 Introducción
     figure.mb-5
       img(src="@/assets/curso/img1.jpg", alt="Texto que describa la imagen")
-      figcaption Imagen 1. Vacunación
 
     p.mb-0 Este componente formativo contiene una descripción detallada del procedimiento técnico para reservas hoteleras, donde se explica cómo se puede consultar la disponibilidad y registrar paso a paso la información requerida, indicando el orden para la confirmación de la reservación: estado, condiciones y políticas. Así mismo, se estará en la capacidad de generar los reportes de reservas de manera correcta.
       br

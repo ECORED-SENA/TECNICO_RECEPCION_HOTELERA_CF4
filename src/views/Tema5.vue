@@ -70,6 +70,15 @@
       br
       br
       |La garantía también se cumple por tiempo límite de llegada.
+      br
+      br
+      |Cuando una reserva ha sido sostenida, pero no garantizada, por falta de anticipo, no se facturará a la cuenta huésped, por pasajero no show.
+      br
+      br
+      |El componente formativo 4 pone en contexto los procedimientos de reservas, permitiendo el reconocimiento del ecosistema de distribución y el reconocimiento de las oportunidades para el hotel al agilizar los procesos de reservas; así mismo se conocen y comprenden el alfabeto aeronáutico y los sistemas de codificación.
+      br
+      br
+          
     .row.mb-5.justify-content-between
       .col-lg-5
         figure.mb-5

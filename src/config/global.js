@@ -279,12 +279,18 @@ export default {
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
+      {
+        nombre: 'Rafael Augusto Mantilla López',
+        cargo: 'Validación de diseño y contenido',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
-        centro: 'Centro de comercio y servicios',
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: ['Validación y vinculación en plataforma LMS'],
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
         regional: 'Regional Tolima',
       },
     ],

@@ -84,6 +84,8 @@
     br
     figure.mb-5
         img(src="@/assets/curso/img34.svg", alt="Texto que describa la imagen")
+    figure.mb-5
+        img(src="@/assets/curso/img38.svg", alt="Texto que describa la imagen")
     #t_4_2.titulo-segundo
       .h3 4.2 Modificación
     .row.mb-5 
@@ -118,7 +120,7 @@
           br
           |Para el caso de las cancelaciones se realizan cargos siempre que sea una reserva garantizada, si el huésped solo confirmó sin ningún tipo de garantía y si se trata de un cliente corporativo o VIP, se realiza el cargo a la cuenta de la empresa, si se trata de un cliente particular se maneja como pasajero No Show.
     figure.mb-5
-        img(src="@/assets/curso/img38.svg", alt="Texto que describa la imagen")
+        img(src="@/assets/curso/img100.svg", alt="Texto que describa la imagen")
 
 
 </template>

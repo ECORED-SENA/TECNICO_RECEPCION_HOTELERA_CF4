@@ -106,6 +106,7 @@
       .col-lg-10     
         figure.mb-5
           img(src="@/assets/curso/img15.svg", alt="Texto que describa la imagen")
+        p Para ampliar la información, se puede observar el video “The History of the NATO Phonetic Alphabet”, cuyo enlace para su visualización se encuentra en el material complementario.
     .h4 Códigos aeronáuticos.
     .row.mb-5 
       .col-lg-6
