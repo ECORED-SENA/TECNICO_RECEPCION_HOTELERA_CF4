@@ -87,7 +87,7 @@
         figure.mb-5
           img(src="@/assets/curso/img24.jpg", alt="Texto que describa la imagen")
     .h4 Pasos del pronóstico.
-    p.mb-5 Lograr este reporte requiere de un proceso técnico que no es objeto de este módulo, aun así es importante señalar que para realizar un forecast se necesita seguir el proceso descrito en la figura 6:
+    p.mb-5 Lograr este reporte requiere de un proceso técnico que no es objeto de este módulo, aún así es importante señalar que para realizar un forecast se necesita seguir el proceso descrito en la figura 6:
     .row.mb-5.justify-content-center
       .col-lg-10
         figure.mb-5

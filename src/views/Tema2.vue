@@ -41,7 +41,6 @@
       .col-lg-8
         .tabla-a.color-acento-contenido.mb-5 
           table
-            caption Leyenda de la tabla
             thead.header-table
               tr
                 th CÓDIGO
