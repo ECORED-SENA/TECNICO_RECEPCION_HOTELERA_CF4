@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Procedimientos técnicos de reservas en hoteles',
+    componenteFormativo: 'Procedimientos de reservas',
     descripcionCurso:
       'Este componente formativo contiene una descripción detallada del procedimiento técnico para reservas hoteleras, donde se explica cómo se puede consultar la disponibilidad y registrar paso a paso la información requerida, indicando el orden para la confirmación de la reservación: estado, condiciones y políticas. Así mismo, se estará en la capacidad de generar los reportes de reservas de manera correcta. <br><br>¡Nuevamente bienvenido al programa de formación en Servicio de recepción hotelera!',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
@@ -110,7 +110,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Procedimientos técnico',
+        titulo: 'Procedimientos técnicos',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -288,6 +288,16 @@ export default {
     ],
     gestoresRepositorio: [
       {
+        nombre: 'Álvaro Andrés Angarita Ramirez',
+        cargo: ['Validación de recursos'],
+        centro: 'Centro de comercio y servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: ['Validación de recursos'],
+        centro: 'Centro de comercio y servicios - Regional Tolima',
+      },
+      {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: ['Validación y vinculación en plataforma LMS'],
         centro: 'Centro de Comercio y Servicios Regional Tolima',
@@ -326,7 +336,7 @@ export default {
     {
       referencia: 'Oracle Corporation. (s.f.). Waitlist Screen. oracle.com',
       link:
-        'https://ohdcs.hospitality.oracleindustry.com/OperaHelp/waitlist_options.',
+        'https://docs.oracle.com/cd/E98457_01/opera_5_6_core_help/waitlist_options.htm',
     },
     {
       referencia:

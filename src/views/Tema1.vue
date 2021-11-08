@@ -64,7 +64,7 @@
         .cajon.color-acento-contenido.bg-gris.p-4.mb-4
           p La implementación de los GDS en las reservas hoteleras no es tan representativa, como sucede con las compañías aéreas.  
         .cajon.color-acento-contenido.bg-gris.p-4.mb-4
-          p La hiper conectividad genera nuevas oportunidades de negocio
+          p La hiperconectividad genera nuevas oportunidades de negocio
     .h4 Desventajas
     .row.mb-5.justify-content-center
       .col-lg-10

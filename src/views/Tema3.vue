@@ -104,7 +104,7 @@
         p Los reportes de sobreventa, habitualmente se presentan en las compañías aéreas, que se caracterizan por sobreventas de cupos en los diferentes vuelos; en los establecimientos hoteleros ocurre cuando se supera la capacidad máxima de ocupación, es decir, se ha reservado un mayor número de cupos de los garantizados por el hotel, según las habitaciones disponibles para la venta.
           br
           br
-          |Para muchos hoteles la sobreventa está determinada por la existencia de reservas no garantizadas, que sumadas a las que han sido confirmadas, superan la capacidad del establecimiento; esta situación es conocida como oversell o sobre venta, con el fin de evitar que las cancelaciones de último momento y los pasajeros no show, puedan influir en el porcentaje de ocupación del hotel (Álvarez, 2021).
+          |Para muchos hoteles la sobreventa está determinada por la existencia de reservas no garantizadas, que sumadas a las que han sido confirmadas, superan la capacidad del establecimiento; esta situación es conocida como oversell o sobre venta, con el fin de evitar que las cancelaciones de último momento y los pasajeros No show, puedan influir en el porcentaje de ocupación del hotel (Álvarez, 2021).
       .col-lg-5
         figure.mb-5
           img(src="@/assets/curso/img26.jpg", alt="Texto que describa la imagen")
@@ -125,7 +125,7 @@
     p.mb-5 Una de las responsabilidades del área de reservas es el control de la disponibilidad de habitaciones, por ello la elaboración de planning o los diferentes reportes, se convierte en una herramienta esencial para dar cumplimiento a la previsión de ocupación en determinadas fechas y evitar incurrir en sobreventas.
       br
       br
-      |Estos reportes muestran el estado real de las reservaciones, mediante la previsión de llegadas individuales y particulares, emisión del rooming list para llegadas de grupos, información del planning de reservas garantizadas y confirmadas, tratamiento de las modificaciones y cancelaciones, tratamiento de pasajeros no show, información de pasajeros en lista de espera y manejo de overbooking o sobreventa.
+      |Estos reportes muestran el estado real de las reservaciones, mediante la previsión de llegadas individuales y particulares, emisión del rooming list para llegadas de grupos, información del planning de reservas garantizadas y confirmadas, tratamiento de las modificaciones y cancelaciones, tratamiento de pasajeros No show, información de pasajeros en lista de espera y manejo de overbooking o sobreventa.
 
 </template>
 

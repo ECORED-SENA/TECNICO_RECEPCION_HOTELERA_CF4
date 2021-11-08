@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 4
-      h1 Procedimientos técnico
+      h1 Procedimientos técnicos
     figure.mb-5
         img(src="@/assets/curso/img28.jpg", alt="Texto que describa la imagen")
     p.mb-5 A través del departamento de reservaciones del hotel, un pasajero (PAX) o huésped puede hacer una solicitud de reserva de habitación, en una fecha específica y por un tiempo de estadía o permanencia determinado. Este proceso consiste en que el establecimiento hotelero asume el compromiso de separar una habitación para uno o varios huéspedes, lo cual requiere de un depósito o pago anticipado por parte del huésped como garantía de la reserva a favor del hotel (Ateortua, 2013). Existen procedimientos técnicos para la realización de reservaciones:

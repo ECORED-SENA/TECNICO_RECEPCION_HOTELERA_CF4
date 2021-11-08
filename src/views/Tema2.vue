@@ -29,7 +29,7 @@
       div(titulo="f. Reservas de grupos").p-4
         p Por lo general son reservas que hacen para grupos de más de (10) diez habitaciones llegando en una fecha y garantizas por una empresa o agencia de viajes. Las condiciones de manejo del grupo se estipulan en contratos previos.
       div(titulo="g. Reservas anuladas o canceladas").p-4
-        p Estas reservas se generan o por solicitud directa de los clientes (canceladas) en caso de no poder honrar la reserva o por parte del hotel (Anuladas) a causa de una situación especial la cual le obligará a dar el manejo acorde a las políticas establecidas.
+        p Estas reservas se generan o por solicitud directa de los clientes (canceladas) en caso de no poder cumplir la reserva o por parte del hotel (Anuladas) a causa de una situación especial la cual le obligará a dar el manejo acorde a las políticas establecidas.
       div(titulo="h. Reservas con cupo o Allotment").p-4
         p Los allotment en el negocio hotelero corresponden a convenios o negociaciones con empresas, agentes de viajes o aerolíneas, en las cuales a estos se les asignan un determinado número de habitaciones diario, que estos garantizan bien ya sea porque las utilizan o las revenden.
       div(titulo="i. No Show").p-4
